@@ -1,9 +1,6 @@
-# 🔗 Hi there 👋
+### 🔗 Hi there 👋
 
 I'm Yassmine ! I'm a Machine Learning and Data Science enthusiast and an Industrial Management Engineering student.
-
-![Yassmine's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Yassmine2020&show_icons=true&hide_border=true&title_color=9C27B0&icon_color=BA68C8&text_color=ffffff&bg_color=0a0a0a)
-![Most Used Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yassmine2020&layout=compact&hide_border=true&title_color=9C27B0&text_color=ffffff&bg_color=0a0a0a)
 
 ### 🤝 Let's Connect!
 
@@ -17,4 +14,26 @@ I'm Yassmine ! I'm a Machine Learning and Data Science enthusiast and an Industr
   <a href="https://github.com/Yassmine2020">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo"  />
   </a>
+</div>
+
+### Statistics
+
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Yassmine2020&show_icons=true&hide_border=true&title_color=FF0080&icon_color=00FFFF&text_color=00FFFF&bg_color=0D1117&show_owner=true&count_private=true)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yassmine2020&layout=donut&hide_border=true&title_color=FF0080&text_color=00FFFF&bg_color=0D1117)](https://github.com/Yassmine2020)
+
+</div>
+
+<div align="center">
+  
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yassmine2020&theme=react-dark&hide_border=true&area=true)](https://github.com/Yassmine2020)
+
+</div>
+
+<div align="center">
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yassmine2020&theme=dark&hide_border=true&background=0D1117&stroke=00FFFF&ring=FF0080&fire=FF0080&currStreakLabel=FF0080)
+
 </div>
