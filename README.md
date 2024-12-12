@@ -17,9 +17,19 @@ I'm Yassmine ! I'm a Machine Learning and Data Science enthusiast and an Industr
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 ## 📫 How to reach me
-[![LinkedIn](https://img.shields.io/badge/-Yassmine_EDDYB-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/yassmine-eddyb/)
-[![Gmail](https://img.shields.io/badge/-yassmine.eddyb@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yassmine.eddyb@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-Yassmine_EDDYB-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/yassmineeddyb/)
+[![Gmail](https://img.shields.io/badge/-yassmine.eddyb@emines.um6p.ma-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yassmine.eddyb@emines.um6p.ma)
 [![GitHub](https://img.shields.io/badge/-Yassmine2020-181717?style=flat&logo=github)](https://github.com/Yassmine2020)
 
 ## 📌 Pinned Projects
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Yassmine2020&repo=Mars-Rover-Prototype&theme=radical&hide_border=true&title_color=ff64da&icon_color=34ebd8&text_color=ffffff&bg_color=141321)](https://github.com/Yassmine2020/Mars-Rover-Prototype)
+[![2024-InnovAI-Hackathon](https://github-readme-stats.vercel.app/api/pin/?username=Yassmine2020&repo=2024-InnovAI-Hackathon&theme=radical&hide_border=true&title_color=ff64da&icon_color=34ebd8&text_color=ffffff&bg_color=141321)](https://github.com/Yassmine2020/2024-InnovAI-Hackathon)
+
+[![Precipitations_bias_correction](https://github-readme-stats.vercel.app/api/pin/?username=Yassmine2020&repo=Precipitations_bias_correction&theme=radical&hide_border=true&title_color=ff64da&icon_color=34ebd8&text_color=ffffff&bg_color=141321)](https://github.com/Yassmine2020/Precipitations_bias_correction)
+
+[![2023-GenAI-Hackathon](https://github-readme-stats.vercel.app/api/pin/?username=Yassmine2020&repo=2023-GenAI-Hackathon&theme=radical&hide_border=true&title_color=ff64da&icon_color=34ebd8&text_color=ffffff&bg_color=141321)](https://github.com/Yassmine2020/2023-GenAI-Hackathon)
+
+[![moukaouil.AI](https://github-readme-stats.vercel.app/api/pin/?username=Yassmine2020&repo=moukaouil.AI&theme=radical&hide_border=true&title_color=ff64da&icon_color=34ebd8&text_color=ffffff&bg_color=141321)](https://github.com/Yassmine2020/moukaouil.AI)
+
+[![MaterialRisksSimulation](https://github-readme-stats.vercel.app/api/pin/?username=Yassmine2020&repo=MaterialRisksSimulation&theme=radical&hide_border=true&title_color=ff64da&icon_color=34ebd8&text_color=ffffff&bg_color=141321)](https://github.com/Yassmine2020/MaterialRisksSimulation)
+
+[![YOLOP](https://github-readme-stats.vercel.app/api/pin/?username=Yassmine2020&repo=YOLOP&theme=radical&hide_border=true&title_color=ff64da&icon_color=34ebd8&text_color=ffffff&bg_color=141321)](https://github.com/Yassmine2020/YOLOP)
